@@ -1,0 +1,547 @@
+
+head {
+    
+}
+
+.header {
+   background-image: url(../img/BackGround01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*padding-top: 366px;*/
+    padding-bottom: 224px;
+       
+    
+}
+
+.container {
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.back-ground {
+    
+}
+
+.section-description {
+font-family: Montserrat, sans-serif;
+color:  #ffffff;
+font-size: 35px;
+font-weight: 700;
+text-transform: uppercase;
+text-align: center;
+margin-bottom: 46px;
+}
+
+.green-text {
+    color: #18cfab;
+}
+
+.company-description {
+font-family: Montserrat, sans-serifl;
+color:  #ffffff;
+font-size: 79px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+margin-bottom: 37px;
+    
+}
+
+.compant-slogan {
+font-family: Montserrat;
+color:  #d4d4d4;
+font-size: 34px;
+font-weight: 300;
+text-transform: capitalize;
+text-align: center;
+margin-bottom: 146px;
+}
+
+.bottom-properties {
+font-family: Montserrat, sans-serif;
+text-transform: uppercase;
+color:  #ffffff;
+font-size: 13px;
+font-weight: 700;
+text-align: center;
+border: 2px solid #ffffff;
+display: inline-block;
+padding: 31px 26px;
+border-radius: 4px;
+background-color:  #18cfab;
+margin: 28px
+}
+
+.bottom-properties2 {
+font-family: Montserrat, sans-serif;
+text-transform: uppercase;
+color:  #ffffff;
+font-size: 13px;
+font-weight: 700;
+text-align: center;
+border: 2px solid #ffffff;
+display: inline-block;
+padding: 31px 26px;
+border-radius: 4px;
+background-color:#00cbf6;
+}
+
+.bottom-centr {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.explorer-now-prop {
+    border: 1px solid #00cbf6;
+    padding: 31px 26px;
+    border-radius: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 13px "Montserrat", sans-serif;
+    font-weight: 700px; 
+    color:  #ffffff;
+    background-color: #00cbf6;
+    margin-right: 26px;
+    border-top: 4px solid white;
+}
+.explorer-now-prop:hover{ /*псевдоклас при наведении*/
+    color: blueviolet;
+    background-image: linear-gradient(white, #ffff);
+    
+    
+}
+
+.navbar {
+    background-color: rgba(73, 71, 63, 0.6);
+    margin-bottom: 265px;
+    
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+        
+    
+}
+
+.navbar-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-right-col {
+    display:flex;
+    justify-content: flex-end;
+    
+}
+
+
+.navbar-logo {
+    display: inline-flex;
+    justify-content: flex-start;
+    text-decoration:none;
+}
+
+.navbar-logo-hexagon {
+    background-image: url(../img/Hexagon.png);
+    background-repeat: no-repeat;
+    margin-top: 26px;
+    text-align: center;
+    width: 58px;
+    height: 67px;
+    font-family: Montserrat;
+    color:  #ffffff;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 16px;
+    
+    
+}
+
+.navbar-logo-text-p1 {
+font-family: Montserrat;
+color:  #ffffff;
+font-size: 31.96px;/* Приближение из-за подстановки шрифтов */
+font-weight: 400;
+margin-top: 50px;
+padding-left: 8px;
+}
+
+.navbar-logo-text-p2 {
+    font-family: Montserrat;
+color:  #ffffff;
+font-size: 31.96px;/* Приближение из-за подстановки шрифтов */
+font-weight: 400;
+margin-top: 50px;
+}
+
+.menu-down {
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+    width: 100%;
+    height:;
+}
+
+.menu-down-elements {
+    height: 45%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+  .menu-down-item-black {
+    border: 1px solid #1c2a33;
+    padding: ;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 20px "Montserrat", sans-serif;
+    font-weight: 700px; 
+    color:#18cfab;
+    background-color: #1c2a33;
+    padding-bottom:;
+    border-top: 4px solid #18cfab;
+    text-align: center;
+    width: 25%;
+}
+
+
+
+.menu-down-item-green {
+    border: 1px solid #18cfab;
+    padding: ;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 20px "Montserrat", sans-serif;
+    font-weight: 700px; 
+    color:#1c2a33;
+    background-color: #18cfab;
+    padding-bottom:190px;
+    padding-top: 240px;
+    border-top: 4px solid #1c2a33;
+    text-align: center;
+    width: 25%;
+}
+
+.section {
+    display: flex;
+    height: 200px;
+    margin-top:
+    
+}
+
+.menu-bar-down-items {
+}
+
+.menu-bar-down-element {
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 20px "Montserrat", sans-serif;
+    font-weight: 700px; 
+    color:#1c2a33;
+    text-align: center;
+    border: 2px, solid, black;
+    background-color: #18cfab;
+    background-size: cover;
+    margin-top:
+}
+
+
+
+.container1 {
+    display: flex;
+    justify-content: stretch;
+    margin-top:
+    
+}
+
+.features-list {
+    display: flex;
+    
+}
+
+.features-item {
+    width: 25%;
+    padding-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    
+}
+
+.features-item-green {
+    background-color: #18cfab;
+    border-top: 4px solid #1c2a33;
+}
+
+.item-properties {
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 20px "Montserrat", sans-serif;
+    font-weight: 700px; 
+    color:#1c2a33;
+    text-align: center;
+}
+
+.feateres-item-black {
+    background-color: #1c2a33;
+    border-top: 4px solid #18cfab;
+
+}
+
+.feateres-item-green {
+    background-color: #18cfab;
+    border-top: 4px solid #ffffff;
+}
+
+.features-item-name-green {
+    font: 20px "Montserrat", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    color: #18cfab;
+    
+}
+
+.feateres-item-black .features-item-name {
+    font: 20px "Montserrat", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    color: #1c2a33;
+}
+
+.feateres-item-green .features-item-name {
+    color: #18cfab;
+} 
+.features-item-name-black {
+    font: 20px "Montserrat", sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    color: #1c2a33;
+
+}
+
+.features-img {
+    display: flex;
+    height: 97px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 97px;
+    margin-bottom: 49px
+}
+
+.features {
+    display:
+}
+
+.navbar-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 664px;
+}
+
+.navbar-menu-item {
+}
+
+.navbar-menu-link {
+font-family: Montserrat;
+color:  #18cfab;
+font-size: 13px;
+font-weight: 700;
+text-decoration: none;
+text-transform: uppercase;
+}
+
+.navbar-img {
+    display: inline-flex;
+    margin-left: 17px;
+}
+
+.explorer-now-prop2 {
+    border: 1px solid #00cbf6;
+    padding: 31px 26px;
+    border-radius: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 13px "Montserrat", sans-serif;
+    font-weight: 700px; 
+    color:  #ffffff;
+    background-color: border: 1px solid #00cbf6;
+    padding: 31px 26px;
+    border-radius: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font: 13px "Montserrat", sans-serif;
+    font-weight: 700px; 
+    color:  #ffffff;
+    background-color: #18cfab;
+    margin-right: 26px;
+    border-top: 4px solid white;;
+    margin-right: 26px;
+    border-top: 4px solid white;
+}
+.explorer-now-prop2:hover{ /*псевдоклас при наведении*/
+    color: blueviolet;
+    background-image: linear-gradient(white, #ffff);
+    
+    
+}
+
+.slogan-amazing-work {
+    display: flex;
+    justify-content: center;
+    padding-top: 97px;
+    padding-bottom: 26px;
+}
+
+.amazing-work-features {
+    font-family: Montserrat;
+    color:  #4e4e4e;
+    font-size: 36px;
+    font-weight: 400;
+    text-transform:capitalize;
+}
+
+.green-line::after {
+    content: "";
+    background-color: #18cfab;
+    display: block;
+    width: 77px;
+    height: 1px;
+}
+
+
+.green-line-left {
+    display: flex;
+    margin-left: 46%;
+    padding-bottom: 3px;
+}
+
+.green-line-right {
+    display: flex;
+    margin-left: 48%;
+    margin-bottom: 70px;
+}
+
+.amazing-work-items {
+    height: 58;
+    width: 609;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.amazing-work-description {
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    margin-bottom: 71px
+        
+}
+
+.amazing-work-item {
+    font-family: Montserrat;
+    color:  #18cfab;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: capitalize;
+    border: 1px solid grey;
+    text-align: center;
+    padding-left: 29px;
+    padding-top: 24px;
+    padding-right: 29px;
+    padding-bottom: 24px;
+}
+
+.creative-design-tab {
+    display: flex;
+    padding-bottom: 72px;
+    
+}
+
+.creative-design-img {
+    display: flex;
+    height: 624px;
+    
+}
+
+.img-properties {
+    display: flex;
+    width: 284px;
+    height: 206px;
+    background-image:url(../img/creativeDesignn_01.png);
+    border: 1px solid #ffff;
+    
+}
+
+.creative-design-img-features {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.img-properties02 {
+    display: flex;
+    width: 284px;
+    height: 206px;
+    background-image:url(../img/creativeDesignn_02.png);
+    border: 1px solid #ffff;
+}
+
+.img-properties03 {
+    display: flex;
+    width: 284px;
+    height: 206px;
+    background-image:url(../img/creativeDesignn_03.png);
+    border: 1px solid #ffff;
+}
+
+.bottom-load-more {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.down-load-more-features {
+    border: 1px solid #00cbf6;
+    padding: 25px 21px;
+    border-radius: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Montserrat;
+    color:  #ffffff;
+    font-size: 14px;
+    font-weight: 700;
+    background-color: #18cfab;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+}
+
+.plus {
+    display: inline-flex;
+    margin-left: 25px;
+    
+}
+
+.text {
+    display: inline-block;
+    margin-left: 16px;
+}
+
+.down-load-img-plus {
+    display: inline-flex;
+}
